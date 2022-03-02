@@ -9,6 +9,6 @@ Procedures during the cleaning process:
 - Fulfilling null values in addresses with the corresponding address, by using JOINS;
 - Splitting Columns by using STRING, CHARINDEX;
 - Splitting Columns by using UPDATE, SET, PARSENAME, REPLACE;
-- Changing values to Yes and No answers by using SELECT DISTINCT, GROUP BY, ORDER BY, CASE, WHEN and UPDATE;
+- Create a new Column with Case - WHEN Statement; 
 - Removing duplicates with CTE and row_num > 1;
 - Dropping columns with DROP COLUMN.
